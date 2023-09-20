@@ -20,5 +20,5 @@ elif operacao == '*':
     resultado = n1 * n2
     print(resultado)
 else:
-    resultado = 'n da n gay'
+    resultado = 'vai dar não patrão'
 
